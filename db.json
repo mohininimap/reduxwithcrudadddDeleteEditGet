@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Mohini",
+      "address": "London",
+      "email": "mohini@gmail.com",
+      "contact": "8367367",
+      "id": 1
+    },
+    {
+      "name": "Bhargavi",
+      "address": "London",
+      "email": "bhargavi@gmail.com",
+      "contact": "8367367",
+      "id": 2
+    },
+    {
+      "name": "Pranil Meherkar",
+      "address": "Goregaon",
+      "email": "pranil@gmail.com",
+      "contact": "766555555",
+      "id": 3
+    }
+  ]
+}

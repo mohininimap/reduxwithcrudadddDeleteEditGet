@@ -1,0 +1,13 @@
+=>npm i axios react-redux redux redux-logger redux-thunk @material-ui/core@4.11.4
+=>npm install -g json-server
+=>npm i dotenv
+=>npm install @mui/styles
+--------------------------
+
+echo "# reduxwithcrudadddDeleteEditGet" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mohininimap/reduxwithcrudadddDeleteEditGet.git
+git push -u origin main
